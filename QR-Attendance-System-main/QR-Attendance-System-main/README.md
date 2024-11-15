@@ -1,6 +1,6 @@
 <div align="center">
 
-# QR Attendance System
+# QR-code-Attendence
 
 ![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/dbc0c061-76d0-45bb-b5da-7f4373ffd073)
 
@@ -14,9 +14,7 @@
 - [Setup](#setup)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [License](#license)
-- [Contributions](#contributions)
-- [Developers](#develpers)
+
 
 ## Overview
 
@@ -148,11 +146,4 @@ Before you begin, ensure you have the following prerequisites installed:
 ![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/0f77779e-7648-4356-84c0-7db58b3e786c)
 
 
-## Contributions
 
-We welcome contributions from the community! If you'd like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## Developers
-Created by __Team Hokage__ during __Live The Code 2.0__ Hackathon.
-
-Contributors : [Mohd Azeem](https://github.com/AzeemIdrisi), [Dheeraj Jha](https://github.com/Dheerajjha451), [Shantanu Pant](https://github.com/Shanty34)
